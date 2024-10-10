@@ -1,0 +1,5 @@
+push 30
+push 70
+add
+out
+hlt
